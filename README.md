@@ -78,10 +78,10 @@ Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by Deep
 any inquiries or tasks you may have.
 ```
 ## Reference:
-
+```
 https://techcommunity.microsoft.com/blog/AzureHighPerformanceComputingBlog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726
 https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1_Perf/README.html
-
+```
 
 
 
