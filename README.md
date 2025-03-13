@@ -2,7 +2,9 @@
 Deploy Deepseek R1 locally on Azure NDMI300Xv5 
 
 ## Deploy an Azure NDMI300Xv5 VM using marketplace ROCM image:
+```
 az vm create --resource-group RG --name VMNAME --image microsoft-dsvm:ubuntu-hpc:2204-rocm:22.04.2025030701 --public-ip-sku Standard --admin-username azureuser --admin-password 123ABC --size Standard_ND96isr_MI300X_v5  --location LOCATION --security-type Standard
+```
 
 ## Additional steps
 Configure NVMe disk as raid disk
